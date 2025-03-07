@@ -35,21 +35,21 @@ Note: With Selenium 4.6+, Selenium Manager can automatically manage drivers.
 
 ## Installation
 1. Clone the Repository:
-  ```bash
-  git clone https://github.com/ruchirk22/weather-check-agent.git
-  cd weather-check-agent
-  ```
+```bash
+git clone -b master https://github.com/ruchirk22/weather-check-agent.git
+cd weather-check-agent
+```
 2. (Optional) Create and Activate a Virtual Environment (Windows):
-  ```bash
-  python -m venv venv
-  ```
-  ```bash
-  venv\Scripts\activate
-  ```
+```bash
+python -m venv venv
+```
+```bash
+venv\Scripts\activate
+```
 3. Install Dependencies:
-   ```bash
-   pip install selenium webdriver-manager
-   ```
+ ```bash
+ pip install selenium webdriver-manager
+ ```
 ## Usage
 Run the project from the command line by providing the city name and the expected weather condition as arguments. For example:
 ```bash
