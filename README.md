@@ -36,7 +36,7 @@ Note: With Selenium 4.6+, Selenium Manager can automatically manage drivers.
 ## Installation
 1. Clone the Repository:
   ```bash
-  git clone https://github.com/your-username/weather-check-agent.git
+  git clone https://github.com/ruchirk22/weather-check-agent.git
   cd weather-check-agent
   ```
 2. (Optional) Create and Activate a Virtual Environment (Windows):
